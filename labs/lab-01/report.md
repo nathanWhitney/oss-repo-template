@@ -5,6 +5,7 @@ I tried various ways to shrink the images none of them worked
 Step 1 - Discord:
 
 ![image](https://user-images.githubusercontent.com/68211239/149838819-9460c8a0-dd13-454b-8aff-3b7101a80cde.png)
+
 Step 2:
 For the first article I was a bit suprised that open source software had more specifications then I had originally thought of. I thought it was only really free software that was able to be found online where it is actually a lot more than that. The number of limitations in place to make sure that it's actually available for everyone was impressive.
 
