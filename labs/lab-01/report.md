@@ -3,6 +3,7 @@
 I tried various ways to shrink the images none of them worked
 
 Step 1 - Discord:
+
 ![image](https://user-images.githubusercontent.com/68211239/149838819-9460c8a0-dd13-454b-8aff-3b7101a80cde.png)
 Step 2:
 For the first article I was a bit suprised that open source software had more specifications then I had originally thought of. I thought it was only really free software that was able to be found online where it is actually a lot more than that. The number of limitations in place to make sure that it's actually available for everyone was impressive.
@@ -16,6 +17,7 @@ Other suggestions:
 The fact that it took place at RPI was both rather cool and a bit worrisome. It's cool in that the story was instantly relatable and it's worrisome in that it is relatable. This isn't something that should happen to anyone and the fact that it was done (and still goes on looking at what happens with twitch and youtube) is crazy. It shows the risks of working with open source software. If you are messing around and make something good you are in part responsible for what is done with it, if not in personal feelings then in name. People will connect that work back to you even if it wasn't the intended purpose and even if it also did a lot of good. Overall though what will stick with me is how completely unnecessary it all was. It was barely any money. They just wanted to make an example of him that at the end of the day only reflects poorly on them. On the coding side it's good to see we have a legacy of tinkering though.
 
 Step 3:
+
 ![image](https://user-images.githubusercontent.com/68211239/149559076-37cd9d84-c427-4c98-8cd9-7a25cde923ed.png)
 
 
@@ -34,11 +36,13 @@ Solutions:
 
 
 Step 5:
+
 ![image](https://user-images.githubusercontent.com/68211239/149564738-56337cc7-f99c-4529-b4ea-3caaabaa23fc.png)
 ![image](https://user-images.githubusercontent.com/68211239/149822620-f9568301-cde6-4aa8-a9c6-201fe88e5a5d.png)
 Maze 10
 
 Step 6:
+
 Battle for Wesnoth
 http://aosabook.org/en/wesnoth.html
 
