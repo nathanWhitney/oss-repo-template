@@ -23,7 +23,9 @@ Step 3:
 
 
 Step 4:
+
 In an effort to save space I only used a photo of the last one and posted the answers here for the others
+
 Solutions:
 1) ^-?\d+[e,.]?\d*[e,.]?\d*$
 2) ([0-9]{3})
