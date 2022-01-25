@@ -17,7 +17,6 @@ https://github.com/nathanWhitney/Spoon-Knife
 Part 3:
 
 ![image](https://user-images.githubusercontent.com/68211239/150895953-0d37d987-2c17-42fd-85c7-935c1d9a91f7.png)
-![image](https://user-images.githubusercontent.com/68211239/150896148-973e1c9c-f184-4aa3-a4ba-95946c9b0aca.png)
 
 https://github.com/nathanWhitney/PullReq
 
