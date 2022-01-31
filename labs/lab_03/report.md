@@ -28,8 +28,10 @@ Branches: 6
 * dependabot/npm_and_yarn/lodash-4.17.21
 * dependabot/npm_and_yarn/normalize-url-4.5.1
 * dependabot/npm_and_yarn/path-parse-1.0.7
-* dependabot/npm_and_yarn/electron-11.5.0 
+* dependabot/npm_and_yarn/electron-11.5.0
+ 
 3
+
 ### B7 (https://github.com/Tiecoon/B7)
 - Number of contributors: 10
 - Number of lines of code: 3861 total
