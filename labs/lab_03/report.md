@@ -17,10 +17,11 @@ d69768279382d989eda8f4f7adf9303484afebee
 
 Branches: 1 (master) 
 
-https://www.youtube.com/watch?v=NH78f21MhcY
-
 ![image](https://user-images.githubusercontent.com/68211239/151734535-ec52e642-7597-48fe-a86c-acb783dbe13f.png)
 ![image](https://user-images.githubusercontent.com/68211239/151734546-2149be8f-8be7-4dc6-a22d-63cfc6338ed1.png)
+
+https://www.youtube.com/watch?v=NH78f21MhcY
+
 
 
 2
@@ -50,10 +51,9 @@ Branches: 6
 - The latest commit: [f221dbed816f299d6218b20e564251ad7b8eeee2](https://github.com/Tiecoon/B7/commit/ca0926dcb6988f8e2f464510a9e6d547a9cb2848)
 - Current branches: 48 branches, the 10 most recently updated ones are master, update-dynamorio, debug, limit-scope, generators, testing-ci, refactor-input, clippy-fixs, Logs, update-test-bins
 
-https://youtu.be/AsqMs-VzfyQ
-
 ![image](https://user-images.githubusercontent.com/68211239/151734620-de88d7f3-6cc3-45a2-92ac-81405ef9cc75.png)
 
+https://youtu.be/AsqMs-VzfyQ
 
 4
 
@@ -103,5 +103,10 @@ Date:   Wed Mar 17 15:55:44 2021 -0400
 ![image](https://user-images.githubusercontent.com/68211239/151734561-86338f00-1231-42f5-8f97-8338107a8c33.png)
 
 https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-03/gource.mp4
+
+
+What I noticed about the differences between the gitstats' results vs the results we found on our own was as follows.
+
+
 
 
