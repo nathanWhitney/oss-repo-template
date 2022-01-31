@@ -1,5 +1,8 @@
 #### Part 2
 
+NOTE: Not every single tablemate managed to get Gource working due to seg faults. I managed to get it working a posted my results in AutoLogin. I also included the results from 2 other tablemates who had gotten it to work as well. 
+
+
 1
 ### AutoLogin
 
@@ -108,11 +111,12 @@ Date:   Wed Mar 17 15:55:44 2021 -0400
 
 Gource: https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-03/gource.mp4
 
-
 What I noticed about the differences between the gitstats' results vs the results we found on our own was as follows.
 
-The number of lines was always different with the smallest difference being 3 and the largest being in the thousands.
-The number of authors was often different with the likely reason for that being duplicate authors (as noted by one of my tablemates in their AutoPR writeup).
+The number of lines was always different with the smallest difference being 3 and the largest being in the thousands.\
+The number of authors was often different with the likely reason for that being duplicate authors (as noted by one of my tablemates in their AutoPR writeup).\
+The first and last commit seem to line up which makes sense as those should be fairly set in stone. \
+Overall I think the close reading version is slightly better due to duplicate authors showing up (which could add some confusion) but both seem to be viable solutions, with one being a lot faster.\
 
 
 
