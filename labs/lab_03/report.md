@@ -1,6 +1,13 @@
 #### Part 1
 
+Code and results:
+
+For both of these I wasn't sure if I needed to be more complex with it.
+
 ![image](https://user-images.githubusercontent.com/68211239/151740842-6132086b-b56f-4884-8804-d8484228c611.png)
+
+![image](https://user-images.githubusercontent.com/68211239/151746080-4a68d33c-0c89-4364-a0e4-de2efbed7624.png)
+
 
 
 #### Part 2
