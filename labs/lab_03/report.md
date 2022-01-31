@@ -1,13 +1,22 @@
 1
 ### AutoLogin
+
 Contributors: 1
+
 Number of lines: 613
+
 First Commit: Mon Feb 15 14:46:00 2016
+
 7cc7a66a7546b06484a5c927d511ae4096da8d98
+
 Last Commit: Fri May 6 12:09:59 2016
+
 d69768279382d989eda8f4f7adf9303484afebee
+
 Branches: 1 (master) 
+
 2
+
 ### B.O.T.
 Contributors: 3 \
 Lines of Code: 187608 \
