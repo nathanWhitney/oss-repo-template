@@ -1,3 +1,8 @@
+#### Part 1
+
+![image](https://user-images.githubusercontent.com/68211239/151740842-6132086b-b56f-4884-8804-d8484228c611.png)
+
+
 #### Part 2
 
 NOTE: Not every single tablemate managed to get Gource working due to seg faults. I managed to get it working a posted my results in AutoLogin. I also included the results from 2 other tablemates who had gotten it to work as well. 
