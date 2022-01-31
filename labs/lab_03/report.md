@@ -36,7 +36,9 @@ Branches: 6
 - The first commit: [ca0926dcb6988f8e2f464510a9e6d547a9cb2848](https://github.com/Tiecoon/B7/commit/f221dbed816f299d6218b20e564251ad7b8eeee2)
 - The latest commit: [f221dbed816f299d6218b20e564251ad7b8eeee2](https://github.com/Tiecoon/B7/commit/ca0926dcb6988f8e2f464510a9e6d547a9cb2848)
 - Current branches: 48 branches, the 10 most recently updated ones are master, update-dynamorio, debug, limit-scope, generators, testing-ci, refactor-input, clippy-fixs, Logs, update-test-bins
+
 4
+
 Number of Contributors: 1
 
 Number of Lines of Code : 12281
@@ -46,7 +48,9 @@ First commit - Jan 21st 2019 commit e5a518479152d80b740139f449184ae0a3834c65
 Last commit - May 15th 2019 commit 088d96c0b5047634e090c1ed536c76d165690607
 
 Number of Branches: 1
+
 5
+
 ## AutoPR
 **Contributors:** 1 (duplicate author exists)
 **Lines:** 276 (not incl. binary files (pdf/pptx))
