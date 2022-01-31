@@ -20,6 +20,8 @@ Branches: 1 (master)
 ![image](https://user-images.githubusercontent.com/68211239/151734535-ec52e642-7597-48fe-a86c-acb783dbe13f.png)
 ![image](https://user-images.githubusercontent.com/68211239/151734546-2149be8f-8be7-4dc6-a22d-63cfc6338ed1.png)
 
+Gource:
+
 https://www.youtube.com/watch?v=NH78f21MhcY
 
 
@@ -52,6 +54,8 @@ Branches: 6
 - Current branches: 48 branches, the 10 most recently updated ones are master, update-dynamorio, debug, limit-scope, generators, testing-ci, refactor-input, clippy-fixs, Logs, update-test-bins
 
 ![image](https://user-images.githubusercontent.com/68211239/151734620-de88d7f3-6cc3-45a2-92ac-81405ef9cc75.png)
+
+Gource:
 
 https://youtu.be/AsqMs-VzfyQ
 
@@ -102,10 +106,15 @@ Date:   Wed Mar 17 15:55:44 2021 -0400
 
 ![image](https://user-images.githubusercontent.com/68211239/151734561-86338f00-1231-42f5-8f97-8338107a8c33.png)
 
-https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-03/gource.mp4
+Gource: https://github.com/vandek5/oss-repo-template/blob/master/labs/lab-03/gource.mp4
 
 
 What I noticed about the differences between the gitstats' results vs the results we found on our own was as follows.
+
+The number of lines was always different with the smallest difference being 3 and the largest being in the thousands.
+The number of authors was often different with the likely reason for that being duplicate authors (as noted by one of my tablemates in their AutoPR writeup).
+
+
 
 
 
