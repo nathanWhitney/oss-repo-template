@@ -18,9 +18,9 @@ Microsoft's .NET Core seems like an odd choice to be open source. After all, Mic
 
 |     Website     | License Present |     License     |
 | --------------- | --------------- | --------------- |
-|                 |                 |                 |
-|                 |                 |                 |  
-|                 |                 |                 |  
-|                 |                 |                 |  
-|                 |                 |                 |  
+|        https://github.com/rpi-alpaca/alpaca         |        Yes         |       MIT License https://opensource.org/licenses/MIT          |
+|       https://github.com/V2grad/Organizer          |        Yes         |        MIT License https://opensource.org/licenses/MIT         |  
+|       https://github.com/andywu9/coinhub          |       Yes          |         MIT License https://opensource.org/licenses/MIT        |  
+|        https://github.com/Stashmatic/ARAS         |        Yes         |         MIT License https://opensource.org/licenses/MIT         |  
+|       https://github.com/tdurkin18/anagrams          |       Yes          |       GNU General Public License v3.0 https://www.gnu.org/licenses/gpl-3.0.en.html          |  
 |                 |                 |                 |  
