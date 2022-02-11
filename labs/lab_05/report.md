@@ -1,5 +1,5 @@
 Step 1:
-'''{r}
+```{r}
 // A simple program that computes the square root of a number
 #include <cmath>
 #include <iostream>
@@ -26,8 +26,8 @@ int main(int argc, char* argv[])
             << std::endl;
   return 0;
 }
-'''
-'''{r}
+```
+```{r}
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name and version
@@ -49,4 +49,4 @@ add_executable(Tutorial tutorial.cxx)
 target_include_directories(Tutorial PUBLIC
                            "${PROJECT_BINARY_DIR}"
                            )
-'''
+```
