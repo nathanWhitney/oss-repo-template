@@ -388,10 +388,15 @@ install(FILES MathFunctions.h DESTINATION include)
 ![image](https://user-images.githubusercontent.com/68211239/153969161-a6cca694-9559-46c7-bddd-1be16eb90b7a.png)
 
 Makefile
+
 ![image](https://user-images.githubusercontent.com/68211239/153989270-ce8a6aaf-9532-4bf8-96a2-1fb105a49f65.png)
+
 CMakefile
+
 ![image](https://user-images.githubusercontent.com/68211239/153989919-2fb789be-d43a-4b95-acd2-e36b340ffcb2.png)
+
 Sizes
+
 ![image](https://user-images.githubusercontent.com/68211239/153990068-52dc6b4c-7d51-471c-b8c3-07143d138313.png)
 
 
