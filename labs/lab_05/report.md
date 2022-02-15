@@ -1,4 +1,6 @@
 Step 1:
+
+tutorial.cxx
 ```{r}
 // A simple program that computes the square root of a number
 #include <cmath>
@@ -27,6 +29,7 @@ int main(int argc, char* argv[])
   return 0;
 }
 ```
+CMakeLists.txt
 ```{r}
 cmake_minimum_required(VERSION 3.10)
 
@@ -54,6 +57,7 @@ target_include_directories(Tutorial PUBLIC
 
 Step 2:
 
+tutorial.cxx
 ```{r}
 // A simple program that computes the square root of a number
 #include <cmath>
@@ -93,6 +97,7 @@ int main(int argc, char* argv[])
 }
 
 ```
+CMakeLists.txt
 ```{r}
 cmake_minimum_required(VERSION 3.10)
 
@@ -131,6 +136,7 @@ target_include_directories(Tutorial PUBLIC
 
 Step 3:
 
+CMakeLists.txt
 ```{r}
 cmake_minimum_required(VERSION 3.10)
 
@@ -166,6 +172,7 @@ target_include_directories(Tutorial PUBLIC
                            )
 
 ```
+MathFunctions/CMakeLists.txt
 ```{r}
 add_library(MathFunctions mysqrt.cxx)
 target_include_directories(MathFunctions
@@ -177,6 +184,7 @@ target_include_directories(MathFunctions
 
 Step 4:
 
+CMakeLists.txt
 ```{r}
 cmake_minimum_required(VERSION 3.10)
 
@@ -247,7 +255,7 @@ do_test(Tutorial 0.0001 "0.0001 is 0.01")
 
 ```
 
-
+MathFunctions/CMakeLists.txt
 ```{r}
 add_library(MathFunctions mysqrt.cxx)
 
@@ -266,6 +274,8 @@ install(FILES MathFunctions.h DESTINATION include)
 
 
 Step 5:
+
+CMakeLists.txt
 ```{r}
 cmake_minimum_required(VERSION 3.10)
 
@@ -335,6 +345,8 @@ do_test(Tutorial -25 "-25 is (-nan|nan|0)")
 do_test(Tutorial 0.0001 "0.0001 is 0.01")
 
 ```
+
+MathFunctions/CMakeLists.txt
 ```{r}
 add_library(MathFunctions mysqrt.cxx)
 
