@@ -261,4 +261,5 @@ install(FILES MathFunctions.h DESTINATION include)
 
 ```
 ![image](https://user-images.githubusercontent.com/68211239/153968080-adbc866f-99dc-4966-a2ca-12fefdea048d.png)
+![image](https://user-images.githubusercontent.com/68211239/153968161-c146c52d-53d9-440b-a683-6640e734d3d0.png)
 
