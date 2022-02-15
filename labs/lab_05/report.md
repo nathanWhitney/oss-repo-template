@@ -260,4 +260,5 @@ install(TARGETS MathFunctions DESTINATION lib)
 install(FILES MathFunctions.h DESTINATION include)
 
 ```
+![image](https://user-images.githubusercontent.com/68211239/153968080-adbc866f-99dc-4966-a2ca-12fefdea048d.png)
 
