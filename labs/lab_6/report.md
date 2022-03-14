@@ -68,8 +68,8 @@ if __name__ == '__main__':
             print("None")
 ```
 
-Loaded words_dat.txt containing 5757 five-letter English words.
-Two words are connected if they differ in one letter.
+Loaded words_dat.txt containing 5757 five-letter English words. <br>
+Two words are connected if they differ in one letter. <br>
 Graph has 5757 nodes with 14135 edges
 853 connected components
 Shortest path between chaos and order is
