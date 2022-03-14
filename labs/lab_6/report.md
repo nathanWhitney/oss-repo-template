@@ -231,11 +231,3 @@ beef
 Shortest path between make and take is
 make
 take
-
-
-
-
-
-
-
-
