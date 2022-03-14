@@ -70,67 +70,67 @@ if __name__ == '__main__':
 
 Loaded words_dat.txt containing 5757 five-letter English words. <br>
 Two words are connected if they differ in one letter. <br>
-Graph has 5757 nodes with 14135 edges
-853 connected components
-Shortest path between chaos and order is
-chaos
-choos
-shoos
-shoes
-shoed
-shred
-sired
-sided
-aided
-added
-adder
-odder
-order
-Shortest path between plots and graph is
-plots
-plats
-plate
-prate
-grate
-grape
-graph
-Shortest path between moron and smart is
-moron
-boron
-baron
-caron
-capon
-capos
-capes
-canes
-banes
-bands
-bends
-beads
-bears
-sears
-stars
-start
-smart
-Shortest path between flies and swims is
-flies
-flips
-slips
-slims
-swims
-Shortest path between mango and peach is
-mango
-mange
-marge
-merge
-merse
-terse
-tease
-pease
-peace
-peach
-Shortest path between pound and marks is
-None
+Graph has 5757 nodes with 14135 edges <br>
+853 connected components <br>
+Shortest path between chaos and order is <br>
+chaos <br>
+choos <br>
+shoos <br>
+shoes <br>
+shoed <br>
+shred <br>
+sired <br>
+sided <br>
+aided <br>
+added <br>
+adder <br>
+odder <br>
+order <br>
+Shortest path between plots and graph is <br>
+plots <br>
+plats <br>
+plate <br>
+prate <br>
+grate <br>
+grape <br>
+graph <br>
+Shortest path between moron and smart is <br>
+moron <br>
+boron <br>
+baron <br>
+caron <br>
+capon <br>
+capos <br>
+capes <br>
+canes <br>
+banes <br>
+bands <br>
+bends <br>
+beads <br>
+bears <br>
+sears <br>
+stars <br>
+start <br>
+smart <br>
+Shortest path between flies and swims is <br>
+flies <br>
+flips <br>
+slips <br>
+slims <br>
+swims <br>
+Shortest path between mango and peach is <br>
+mango <br>
+mange <br>
+marge <br>
+merge <br>
+merse <br>
+terse <br>
+tease <br>
+pease <br>
+peace <br>
+peach <br>
+Shortest path between pound and marks is <br>
+None <br>
 
 
 
@@ -198,36 +198,36 @@ if __name__ == '__main__':
             print("None")
 ```
 
-Loaded words_dat2.txt containing 5757 four-letter English words.
-Two words are connected if they differ in one letter.
-Graph has 4273 nodes with 21047 edges
-81 connected components
-Shortest path between cold and warm is
-cold
-wold
-word
-ward
-warm
-Shortest path between love and hate is
-love
-hove
-have
-hate
-Shortest path between good and evil is
-good
-goad
-glad
-glid
-elid
-elit
-exit
-exil
-evil
-Shortest path between pear and beef is
-pear
-bear
-beer
-beef
-Shortest path between make and take is
-make
-take
+Loaded words_dat2.txt containing 5757 four-letter English words. <br>
+Two words are connected if they differ in one letter. <br>
+Graph has 4273 nodes with 21047 edges <br>
+81 connected components <br>
+Shortest path between cold and warm is <br>
+cold <br>
+wold <br>
+word <br>
+ward <br>
+warm <br>
+Shortest path between love and hate is <br>
+love <br>
+hove <br>
+have <br>
+hate <br>
+Shortest path between good and evil is <br>
+good <br>
+goad <br>
+glad <br>
+glid <br>
+elid <br>
+elit <br>
+exit <br>
+exil <br>
+evil <br>
+Shortest path between pear and beef is <br>
+pear <br>
+bear <br>
+beer <br>
+beef <br>
+Shortest path between make and take is <br>
+make <br>
+take <br>
