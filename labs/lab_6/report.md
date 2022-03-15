@@ -231,3 +231,114 @@ beef <br>
 Shortest path between make and take is <br>
 make <br>
 take <br>
+
+
+
+```{r}
+import gzip
+import itertools
+from string import ascii_lowercase as lowercase
+
+import networkx as nx
+
+#-------------------------------------------------------------------
+#   The Words/Ladder graph of Section 1.1
+#-------------------------------------------------------------------
+
+
+def generate_graph(words):
+    G = nx.Graph(name="words")
+    lookup = dict((c, lowercase.index(c)) for c in lowercase)
+    def edit_distance_one(word):
+        hold = itertools.permutations(word, 5)
+        for new_word in hold:
+            newt = "".join(new_word)
+            for i in range(len(newt)):
+                left, c, right = newt[0:i], newt[i], newt[i + 1:]
+                j = lookup[c]  # lowercase.index(c)
+                for cc in lowercase[j + 1:]:
+                    yield left + cc + right
+    candgen = ((word, cand) for word in sorted(words)
+               for cand in edit_distance_one(word) if cand in words)
+    G.add_nodes_from(words)
+    for word, cand in candgen:
+        G.add_edge(word, cand)
+    return G
+
+
+def words_graph():
+    """Return the words example graph from the Stanford GraphBase"""
+    fh = gzip.open('words_dat.txt.gz', 'r')
+    words = set()
+    for line in fh.readlines():
+        line = line.decode()
+        if line.startswith('*'):
+            continue
+        w = str(line[0:5])
+        words.add(w)
+    return generate_graph(words)
+
+
+if __name__ == '__main__':
+    G = words_graph()
+    print("Loaded words_dat.txt containing 5757 five-letter English words.")
+    print("Two words are connected if they differ in one letter.")
+    print("Graph has %d nodes with %d edges"
+          % (nx.number_of_nodes(G), nx.number_of_edges(G)))
+    print("%d connected components" % nx.number_connected_components(G))
+
+    for (source, target) in [('chaos', 'order'),
+                             ('plots', 'graph'),
+                             ('moron', 'smart'),
+                             ('flies', 'swims'),
+                             ('mango', 'peach'),
+                             ('pound', 'marks')]:
+        print("Shortest path between %s and %s is" % (source, target))
+        try:
+            sp = nx.shortest_path(G, source, target)
+            for n in sp:
+                print(n)
+        except nx.NetworkXNoPath:
+            print("None")
+```
+
+Loaded words_dat.txt containing 5757 five-letter English words. <br>
+Two words are connected if they differ in one letter.<br>
+Graph has 5757 nodes with 112278 edges<br>
+16 connected components<br>
+Shortest path between chaos and order is<br>
+chaos<br>
+chose<br>
+chore<br>
+coder<br>
+order<br>
+Shortest path between plots and graph is<br>
+plots<br>
+opals<br>
+plash<br>
+sharp<br>
+graph<br>
+Shortest path between moron and smart is<br>
+moron<br>
+manor<br>
+roams<br>
+smart<br>
+Shortest path between flies and swims is<br>
+flies<br>
+isles<br>
+semis<br>
+swims<br>
+Shortest path between mango and peach is<br>
+mango<br>
+conga<br>
+nacho<br>
+poach<br>
+peach<br>
+Shortest path between pound and marks is<br>
+pound<br>
+mound<br>
+monad<br>
+moans<br>
+roams<br>
+marks<br>
+
