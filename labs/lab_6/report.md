@@ -412,7 +412,7 @@ if __name__ == '__main__':
             print("None")
 ```
 
-Loaded words_dat.txt containing 5757 four-letter English words.<br>
+Loaded words_dat2.txt containing 4273 four-letter English words.<br>
 Two words are connected if they differ in one letter.<br>
 Graph has 4273 nodes with 21047 edges<br>
 81 connected components<br>
