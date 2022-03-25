@@ -1,4 +1,5 @@
 Step 1:
+
 ![image](https://user-images.githubusercontent.com/68211239/160031173-dbe127ec-187a-41cb-8efe-3820e1d022f6.png)
 ![image](https://user-images.githubusercontent.com/68211239/160031203-09276215-0d0f-4706-8ba8-f3b33b99fc96.png)
 
@@ -44,6 +45,14 @@ Step 4:
 ![image](https://user-images.githubusercontent.com/68211239/160051042-aadb05b3-dee7-42b2-9e2a-22faa9c752fb.png)
 
 ![image](https://user-images.githubusercontent.com/68211239/160053184-f536ab0a-d931-4c2f-b1aa-a6e3e5fb2560.png)
+
+![image](https://user-images.githubusercontent.com/68211239/160053751-5f6384cb-1f23-47f5-a8bf-fd6bba7871cb.png)
+
+![image](https://user-images.githubusercontent.com/68211239/160053871-6e1235a1-4a90-4e7b-a2aa-ecd379833006.png)
+
+![image](https://user-images.githubusercontent.com/68211239/160053908-5c9ecaa6-0f76-45ef-8691-369e2f084035.png)
+
+
 
 
 
