@@ -6,6 +6,9 @@ Example 0:
 
 Example 1:
 
+![image](https://user-images.githubusercontent.com/68211239/160506604-31a86d18-0d90-4cf2-b6f1-561402e021a1.png)
+
+
 
 Example 2:
 
