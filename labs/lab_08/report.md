@@ -35,3 +35,13 @@ I noticed a lot of encryption when these were being downloaded. I've only person
 
 ![image](https://user-images.githubusercontent.com/68211239/160516083-1fbc59cd-5ba1-44b5-b4ac-4584df9523cc.png)
 
+Overall ran into some issues when creating the program due to already having assigned localhost:5000 this was fixed by using what was previously learned to kill the program that was previously running on it allowing for the new program to be ran without issues. 
+
+![image](https://user-images.githubusercontent.com/68211239/160518026-25bd6446-72d8-4d75-aa36-5b25d987f2e1.png)
+
+Changes made to code in hello.py
+
+![image](https://user-images.githubusercontent.com/68211239/160518230-12d7a6f4-7e11-4834-b2e9-d521c9c8ad49.png)
+
+
+
