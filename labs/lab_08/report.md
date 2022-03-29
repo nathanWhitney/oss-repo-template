@@ -31,4 +31,7 @@ I ran into some issues when trying to create the Dockerfile at first as I didn't
 
 
 Example 4:
+I noticed a lot of encryption when these were being downloaded. I've only personally worked with Sha1 but I know sha256 is a far advanced version of it.
+
+![image](https://user-images.githubusercontent.com/68211239/160516083-1fbc59cd-5ba1-44b5-b4ac-4584df9523cc.png)
 
