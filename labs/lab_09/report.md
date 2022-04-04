@@ -29,6 +29,7 @@ Checkpoint 2:
 
 Checkpoint 3:
 
+![image](https://user-images.githubusercontent.com/68211239/161575806-ca810bf3-b6ee-47fa-8129-6ae04f766372.png)
 
 
 
