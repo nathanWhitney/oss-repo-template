@@ -15,6 +15,7 @@ Checkpoint 2:
 
 ![image](https://user-images.githubusercontent.com/68211239/161571739-e7f62f75-ac01-43be-8b06-bf6c69664258.png)
 
+![image](https://user-images.githubusercontent.com/68211239/161572111-0a0a0e92-c605-4243-aeef-12b44c9cbf27.png)
 
 
 
