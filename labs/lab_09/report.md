@@ -41,6 +41,10 @@ Checkpoint 3:
 
 ![image](https://user-images.githubusercontent.com/68211239/161618175-197f211e-3fae-4110-b5ff-ace78545ba62.png)
 
+![image](https://user-images.githubusercontent.com/68211239/161620185-7b6a0174-f9ac-47cd-a602-adf17915d7e1.png)
+
+![image](https://user-images.githubusercontent.com/68211239/161620220-97431b34-2ba2-4951-bd5b-4781cf22cc13.png)
+
 
 
 
