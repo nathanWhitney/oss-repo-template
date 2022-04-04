@@ -37,6 +37,8 @@ Checkpoint 3:
 
 ![image](https://user-images.githubusercontent.com/68211239/161616639-7fc1f207-d64c-4d1d-b7b4-16d22e4a6278.png)
 
+![image](https://user-images.githubusercontent.com/68211239/161618266-faedd5dc-158f-4e19-b31d-81ead3b2b720.png)
+
 ![image](https://user-images.githubusercontent.com/68211239/161618175-197f211e-3fae-4110-b5ff-ace78545ba62.png)
 
 
