@@ -1,6 +1,6 @@
 Checkpoint 0:
 
-
+https://github.com/nathanWhitney/oss-repo-template/wiki/Thoughts-on-open-source-04-04-2022
 
 
 Checkpoint 1:
