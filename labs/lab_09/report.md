@@ -1,5 +1,7 @@
 Checkpoint 0:
-DO
+
+
+
 
 Checkpoint 1:
 
