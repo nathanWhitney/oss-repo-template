@@ -4,7 +4,17 @@ Checkpoint 1:
 
 Checkpoint 2:
 
+![image](https://user-images.githubusercontent.com/68211239/162760384-141121fb-5d3f-42db-a542-04fb75f474c4.png)
+
 ![image](https://user-images.githubusercontent.com/68211239/162493892-1de52d8c-3fd9-4468-bd75-ca4b01a12a21.png)
+
+![image](https://user-images.githubusercontent.com/68211239/162760486-92157b2e-f6a2-467a-840c-f74d45c04f45.png)
+
+![image](https://user-images.githubusercontent.com/68211239/162760619-8e024d91-2321-4c47-8c11-9be5b4fe58cc.png)
+
+![image](https://user-images.githubusercontent.com/68211239/162760799-397fb9b0-34e1-43bf-9e55-9bce5fe5efbb.png)
+
+
 
 Checkpoint 3:
 
