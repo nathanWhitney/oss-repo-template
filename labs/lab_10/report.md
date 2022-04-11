@@ -12,7 +12,7 @@ Checkpoint 2:
 
 ![image](https://user-images.githubusercontent.com/68211239/162760619-8e024d91-2321-4c47-8c11-9be5b4fe58cc.png)
 
-![image](https://user-images.githubusercontent.com/68211239/162760799-397fb9b0-34e1-43bf-9e55-9bce5fe5efbb.png)
+![image](https://user-images.githubusercontent.com/68211239/162761619-bb55dd5e-1b33-48a4-a6a1-b7c0eb0ae81d.png)
 
 
 
@@ -24,7 +24,7 @@ Checkpoint 3:
 
 ![shirt](https://user-images.githubusercontent.com/68211239/162672163-6f50c2a0-d535-4d4b-ab91-36dfd9dbfe0d.JPG)
 
-![shoes](https://user-images.githubusercontent.com/68211239/162672177-0f0c5fe2-b3ed-476b-8bbb-5c01720bf981.JPG)
+![shoes](https://user-images.githubusercontent.com/68211239/162760997-bc3960bd-b5cf-428c-904b-c7c030433a30.JPG)
 
 
 ```{r}
@@ -81,9 +81,31 @@ shoes_np = shoes_np[:,:,0]
 shoes_np = shoes_np/ 255.0
 plt.imshow(shoes_np)
 ```
+```{r}
+holding = np.array([[bag_np], [pants_np],[shirt_np],[shoes_np]])
+labels = [8, 1, 0, 7]
+holding = 1-holding
+holding.resize(4,28,28)
+
+predictions = probability_model.predict(holding)
+
+for i in range(4):
+    plt.figure(figsize=(6,3))
+    plt.subplot(1,2,1)
+    plot_image(i, predictions[i], labels, holding)
+    plt.subplot(1,2,2)
+    plot_value_array(i, predictions[i],  labels)
+    plt.show()
+```
+Two runs
 
 ![image](https://user-images.githubusercontent.com/68211239/162671860-b5a03b26-db47-46a9-9408-ba6156dff05c.png)
 
 The confusion with sandals is likely caused by the white bottom of the sneaker. While the other is likely just because of the high amount of general confusion caused by the high amount of grey in the image.
+
+![image](https://user-images.githubusercontent.com/68211239/162762343-86b32c7f-124a-4eab-bede-690578008e18.png)
+
+Flipping the image of the first shows that the direction of the shoe caused an error in logic in some rotations (it does still see it as a sandle when that error is not occuring)
+
 
 
