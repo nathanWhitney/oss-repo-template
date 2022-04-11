@@ -74,4 +74,6 @@ plt.imshow(shoes_np)
 
 ![image](https://user-images.githubusercontent.com/68211239/162671860-b5a03b26-db47-46a9-9408-ba6156dff05c.png)
 
+The confusion with sandals is likely caused by the white bottom of the sneaker. While the other is likely just because of the high amount of general confusion caused by the high amount of grey in the image.
+
 
