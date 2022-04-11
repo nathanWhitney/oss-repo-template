@@ -9,9 +9,13 @@ Checkpoint 2:
 Checkpoint 3:
 
 ![bag](https://user-images.githubusercontent.com/68211239/162672260-7e343b65-4d3c-41b6-a22a-0d7899df6ffc.JPG)
+
 ![pants](https://user-images.githubusercontent.com/68211239/162672229-60f6c3f0-c2df-4e98-8fa3-e2e4e5087daf.JPG)
+
 ![shirt](https://user-images.githubusercontent.com/68211239/162672163-6f50c2a0-d535-4d4b-ab91-36dfd9dbfe0d.JPG)
+
 ![shoes](https://user-images.githubusercontent.com/68211239/162672177-0f0c5fe2-b3ed-476b-8bbb-5c01720bf981.JPG)
+
 
 ```{r}
 bag = Image.open("bag.JPG")
